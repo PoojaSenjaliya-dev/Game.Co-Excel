@@ -5,9 +5,9 @@ Game Co. is a global gaming company with market America, Europe, Japan, and othe
 ## Key Questions and Objectives:
 
 This analysis attempts to answer the following questions:
-• Are certain types of games more popular than others?
-• Have any games decreased or increased in popularity over time? 
-• How have their sales figures varied between geographic regions over time?
+● Are certain types of games more popular than others?
+● Have any games decreased or increased in popularity over time? 
+● How have their sales figures varied between geographic regions over time?
 
 ------
 ## Data and Tools Used:
